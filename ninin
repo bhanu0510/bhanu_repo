@@ -1,3 +1,4 @@
 echo "name"
 read name
 echo "$name HRU"
+pwd
